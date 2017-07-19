@@ -19,10 +19,11 @@ class Api::V1::ArticlesController < Api::RestController
     @article = Article.new(article_params)
 
     if @article.save
-      render json: @article, status: :created, location: @article
+      render json: @article, status: :created
     else
       render json: @article.errors, status: :unprocessable_entity
     end
+    # render :json => params
   end
 
   # PATCH/PUT /articles/1
@@ -47,6 +48,6 @@ class Api::V1::ArticlesController < Api::RestController
 
     # Only allow a trusted parameter "white list" through.
     def article_params
-      params.require(:article).permit(:title, :content, :is_publish)
+      params.require(:article).permit(:title, :content)
     end
 end

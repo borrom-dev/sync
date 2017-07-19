@@ -9,37 +9,16 @@
     </tr>
   </thead>
   <tbody>
-    <tr>
+
+    <tr *ngFor="let article of articles">
       <td class="collapsing">
         <div class="ui fitted slider checkbox">
           <input type="checkbox"> <label></label>
         </div>
       </td>
-      <td>John Lilki</td>
-      <td>September 14, 2013</td>
+      <td>{{article.title}}</td>
+      <td>{{article.perent}}</td>
       <td>jhlilk22@yahoo.com</td>
-      <td><a [routerLink]="['edit-article', 1]"><i class="edit icon"></i></a></td>
-    </tr>
-    <tr>
-      <td class="collapsing">
-        <div class="ui fitted slider checkbox">
-          <input type="checkbox"> <label></label>
-        </div>
-      </td>
-      <td>Jamie Harington</td>
-      <td>January 11, 2014</td>
-      <td>jamieharingonton@yahoo.com</td>
-      <td><a [routerLink]="['edit-article', 1]"><i class="edit icon"></i></a></td>
-    </tr>
-    <tr>
-      <td class="collapsing">
-        <div class="ui fitted slider checkbox">
-          <input type="checkbox"> <label></label>
-        </div>
-      </td>
-      <td>Jill Lewis</td>
-      <td>May 11, 2014</td>
-      <td>jilsewris22@yahoo.com</td>
       <td><a [routerLink]="['edit-article', 1]"><i class="edit icon"></i></a></td>
     </tr>
   </tbody>

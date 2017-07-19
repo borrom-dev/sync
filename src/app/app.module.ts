@@ -1,3 +1,4 @@
+import { AppServicesService } from './services/app-services.service';
 import { ArticleListComponent } from './backend/article/article-list/article-list.component';
 import { ArticleComponent } from './backend/article/article.component';
 import { ContentCardComponent } from './client/content/content-card/content-card.component';
@@ -11,6 +12,7 @@ import { routes } from './../app.routes';
 import { BrowserModule } from '@angular/platform-browser';
 import { FormsModule } from '@angular/forms';
 import { NgModule } from '@angular/core';
+import { HttpModule } from '@angular/http';
 import { AppComponent } from './app.component';
 import { BackendComponent } from './backend/backend.component';
 import { ClientComponent } from './client/client.component';
@@ -46,10 +48,11 @@ import { UserComponent } from './backend/user/user.component';
   imports: [
     BrowserModule,
     FormsModule,
+    HttpModule,
     RouterModule.forRoot(routes),
     RouterModule.forChild(routes)
   ],
-  providers: [],
+  providers: [AppServicesService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

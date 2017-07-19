@@ -9938,3 +9938,240 @@ Processing by ApplicationController#index as HTML
 Completed 200 OK in 101ms (Views: 101.3ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 17:32:47 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (2.0ms)
+Completed 200 OK in 117ms (Views: 116.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 17:34:53 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (15.0ms)
+Completed 200 OK in 200ms (Views: 199.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/api/v1/articles" for 127.0.0.1 at 2017-07-19 17:35:36 +0700
+Processing by Api::V1::ArticlesController#create as HTML
+  Parameters: {"title"=>"Introduction to Android", "content"=>"# Introduction\n\n", "parent"=>"1", "article"=>{"title"=>"Introduction to Android", "content"=>"# Introduction\n\n"}}
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (78.1ms)[0m  [1m[32mINSERT INTO "articles" ("title", "content", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["title", "Introduction to Android"], ["content", "# Introduction\n\n"], ["created_at", "2017-07-19 10:35:38.040051"], ["updated_at", "2017-07-19 10:35:38.040051"]]
+  [1m[35m (130.2ms)[0m  [1m[36mcommit transaction[0m
+Completed 500 Internal Server Error in 845ms (ActiveRecord: 314.5ms)
+
+
+  
+NoMethodError (undefined method `article_url' for #<Api::V1::ArticlesController:0x559dbf8>):
+  
+app/controllers/api/v1/articles_controller.rb:22:in `create'
+Started POST "/api/v1/articles" for 127.0.0.1 at 2017-07-19 17:37:19 +0700
+Processing by Api::V1::ArticlesController#create as */*
+  Parameters: {"article"=>{}}
+Completed 400 Bad Request in 1ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionController::ParameterMissing (param is missing or the value is empty: article):
+  
+app/controllers/api/v1/articles_controller.rb:50:in `article_params'
+app/controllers/api/v1/articles_controller.rb:19:in `create'
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 17:42:02 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (2.0ms)
+Completed 200 OK in 130ms (Views: 130.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/api/v1/articles" for 127.0.0.1 at 2017-07-19 17:42:35 +0700
+Processing by Api::V1::ArticlesController#create as HTML
+  Parameters: {"title"=>"Introduction", "content"=>"# Instruduction", "parent"=>"3", "article"=>{"title"=>"Introduction", "content"=>"# Instruduction"}}
+Completed 200 OK in 12ms (Views: 11.0ms | ActiveRecord: 49.9ms)
+
+
+Started POST "/api/v1/articles" for 127.0.0.1 at 2017-07-19 17:44:24 +0700
+Processing by Api::V1::ArticlesController#create as HTML
+  Parameters: {"title"=>"Introduction", "content"=>"# Instruduction", "parent"=>"3", "article"=>{"title"=>"Introduction", "content"=>"# Instruduction"}}
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (2.0ms)[0m  [1m[32mINSERT INTO "articles" ("title", "content", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["title", "Introduction"], ["content", "# Instruduction"], ["created_at", "2017-07-19 10:44:24.392494"], ["updated_at", "2017-07-19 10:44:24.392494"]]
+  [1m[35m (110.1ms)[0m  [1m[36mcommit transaction[0m
+Completed 500 Internal Server Error in 343ms (ActiveRecord: 114.1ms)
+
+
+  
+NoMethodError (undefined method `article_url' for #<Api::V1::ArticlesController:0x472eb58>):
+  
+app/controllers/api/v1/articles_controller.rb:22:in `create'
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-19 17:44:40 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (0.0ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 102ms (Views: 101.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-19 17:44:44 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (1.0ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 4ms (Views: 2.1ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 17:48:54 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 108ms (Views: 108.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/api/v1/articles" for 127.0.0.1 at 2017-07-19 17:49:24 +0700
+Processing by Api::V1::ArticlesController#create as HTML
+  Parameters: {"title"=>"Introduction", "content"=>"# Introduction to Angular", "parent"=>"3", "article"=>{"title"=>"Introduction", "content"=>"# Introduction to Angular"}}
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.0ms)[0m  [1m[32mINSERT INTO "articles" ("title", "content", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["title", "Introduction"], ["content", "# Introduction to Angular"], ["created_at", "2017-07-19 10:49:24.238083"], ["updated_at", "2017-07-19 10:49:24.238083"]]
+  [1m[35m (145.5ms)[0m  [1m[36mcommit transaction[0m
+Completed 201 Created in 168ms (Views: 4.3ms | ActiveRecord: 145.5ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 17:50:45 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 129ms (Views: 129.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 17:50:49 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 116ms (Views: 115.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/api/v1/articles" for 127.0.0.1 at 2017-07-19 17:51:30 +0700
+Processing by Api::V1::ArticlesController#create as HTML
+  Parameters: {"title"=>"Introduction to Angular", "content"=>"# Introduction To Angular", "parent"=>"3", "article"=>{"title"=>"Introduction to Angular", "content"=>"# Introduction To Angular"}}
+  [1m[35m (2.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (2.0ms)[0m  [1m[32mINSERT INTO "articles" ("title", "content", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["title", "Introduction to Angular"], ["content", "# Introduction To Angular"], ["created_at", "2017-07-19 10:51:30.546130"], ["updated_at", "2017-07-19 10:51:30.546130"]]
+  [1m[35m (119.1ms)[0m  [1m[36mcommit transaction[0m
+Completed 201 Created in 152ms (Views: 2.9ms | ActiveRecord: 123.1ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 17:56:50 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (3.0ms)
+Completed 200 OK in 102ms (Views: 101.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/articles" for 127.0.0.1 at 2017-07-19 17:56:52 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"api/articles"}
+  Rendering public/index.html
+  Rendered public/index.html (2.5ms)
+Completed 200 OK in 251ms (Views: 250.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 17:57:55 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (13.0ms)
+Completed 200 OK in 90ms (Views: 90.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/articles" for 127.0.0.1 at 2017-07-19 17:57:57 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"api/articles"}
+  Rendering public/index.html
+  Rendered public/index.html (9.0ms)
+Completed 200 OK in 215ms (Views: 214.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 17:59:08 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (24.0ms)
+Completed 200 OK in 131ms (Views: 121.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-19 17:59:09 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (2.0ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 148ms (Views: 30.8ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 18:03:40 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (33.0ms)
+Completed 200 OK in 165ms (Views: 163.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-19 18:03:45 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (45.0ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 109ms (Views: 60.9ms | ActiveRecord: 45.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 18:03:57 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (125.1ms)
+Completed 200 OK in 284ms (Views: 284.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-19 18:04:00 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (1.0ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 367ms (Views: 323.1ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 18:04:39 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (18.0ms)
+Completed 200 OK in 142ms (Views: 141.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-19 18:04:41 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (0.0ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 476ms (Views: 476.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 18:05:25 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (80.1ms)
+Completed 200 OK in 348ms (Views: 347.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-19 18:05:29 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (1.0ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 74ms (Views: 72.4ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 18:05:47 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 168ms (Views: 168.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-19 18:05:53 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (1.0ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 80ms (Views: 78.8ms | ActiveRecord: 1.0ms)
+
+
