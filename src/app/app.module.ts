@@ -9,6 +9,7 @@ import { EditArticleComponent } from './backend/article/edit-article/edit-articl
 import { NewArticleComponent } from './backend/article/new-article/new-article.component';
 import { routes } from './../app.routes';
 import { BrowserModule } from '@angular/platform-browser';
+import { FormsModule } from '@angular/forms';
 import { NgModule } from '@angular/core';
 import { AppComponent } from './app.component';
 import { BackendComponent } from './backend/backend.component';
@@ -18,6 +19,8 @@ import { LoginComponent } from './login/login.component';
 import { ClientHeaderComponent } from './client/client-header/client-header.component';
 import { BackendHeaderComponent } from './backend/backend-header/backend-header.component';
 import { ClientFooterComponent } from './client/client-footer/client-footer.component';
+import { EditorComponent } from './backend/editor/editor.component';
+import { UserComponent } from './backend/user/user.component';
 
 @NgModule({
   declarations: [
@@ -36,10 +39,13 @@ import { ClientFooterComponent } from './client/client-footer/client-footer.comp
     ClientFooterComponent,
     ContentCardComponent,
     ArticleComponent,
-    ArticleListComponent
+    ArticleListComponent,
+    EditorComponent,
+    UserComponent
   ],
   imports: [
     BrowserModule,
+    FormsModule,
     RouterModule.forRoot(routes),
     RouterModule.forChild(routes)
   ],

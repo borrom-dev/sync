@@ -6878,3 +6878,3063 @@ Processing by ApplicationController#index as HTML
 Completed 200 OK in 86ms (Views: 85.7ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 09:02:24 +0700
+  [1m[36mActiveRecord::SchemaMigration Load (1.0ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (3.5ms)
+Completed 200 OK in 93ms (Views: 92.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 09:02:30 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 80ms (Views: 79.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 09:04:01 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 90ms (Views: 90.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 09:04:03 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 89ms (Views: 89.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 09:04:56 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 99ms (Views: 98.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 09:05:03 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (2.0ms)
+Completed 200 OK in 93ms (Views: 92.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 09:05:11 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (2.0ms)
+Completed 200 OK in 87ms (Views: 85.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 09:05:27 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 90ms (Views: 89.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 09:05:41 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 89ms (Views: 88.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/article/create" for 127.0.0.1 at 2017-07-19 09:05:48 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/article/create"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 78ms (Views: 77.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 09:06:10 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 77ms (Views: 77.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article" for 127.0.0.1 at 2017-07-19 09:06:28 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 87ms (Views: 87.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 09:06:44 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 128ms (Views: 127.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article" for 127.0.0.1 at 2017-07-19 09:07:49 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 85ms (Views: 84.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 09:07:55 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 87ms (Views: 86.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 09:08:14 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 86ms (Views: 85.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 09:08:20 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 80ms (Views: 79.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 09:08:32 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 113ms (Views: 113.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 09:20:52 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (3.0ms)
+Completed 200 OK in 85ms (Views: 84.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 09:21:06 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (2.0ms)
+Completed 200 OK in 121ms (Views: 121.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 09:23:44 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 83ms (Views: 82.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 09:25:09 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (12.1ms)
+Completed 200 OK in 97ms (Views: 96.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 09:25:24 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (2.0ms)
+Completed 200 OK in 116ms (Views: 116.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 09:26:24 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 105ms (Views: 105.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 09:27:38 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 89ms (Views: 88.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 09:27:42 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (0.5ms)
+Completed 200 OK in 83ms (Views: 82.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 09:27:49 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 145ms (Views: 144.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 09:27:58 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 104ms (Views: 103.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 09:28:54 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 90ms (Views: 90.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 09:30:16 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (2.0ms)
+Completed 200 OK in 107ms (Views: 106.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 09:31:35 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 94ms (Views: 93.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 09:32:31 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (3.0ms)
+Completed 200 OK in 97ms (Views: 96.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 09:32:56 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 112ms (Views: 111.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 09:33:26 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 106ms (Views: 105.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 09:33:42 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 109ms (Views: 106.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 09:33:53 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 85ms (Views: 85.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 09:35:43 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 86ms (Views: 85.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 09:35:53 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (0.5ms)
+Completed 200 OK in 138ms (Views: 136.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 09:36:37 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 120ms (Views: 120.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 09:37:13 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 111ms (Views: 111.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 09:38:01 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (14.0ms)
+Completed 200 OK in 108ms (Views: 107.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 09:38:13 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 116ms (Views: 116.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 09:38:23 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 112ms (Views: 111.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 09:38:45 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (2.0ms)
+Completed 200 OK in 115ms (Views: 115.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 09:38:59 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 113ms (Views: 113.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 09:39:07 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 93ms (Views: 93.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 09:39:39 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 116ms (Views: 115.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 09:39:53 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 106ms (Views: 106.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 09:40:09 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 106ms (Views: 105.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 09:41:14 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 117ms (Views: 116.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 09:41:23 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (0.5ms)
+Completed 200 OK in 97ms (Views: 96.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 09:41:43 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 88ms (Views: 88.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 09:41:46 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 128ms (Views: 128.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 09:41:49 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 99ms (Views: 98.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 09:41:57 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (18.0ms)
+Completed 200 OK in 101ms (Views: 100.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 09:42:23 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (2.0ms)
+Completed 200 OK in 91ms (Views: 90.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 09:42:58 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 153ms (Views: 153.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/articles" for 127.0.0.1 at 2017-07-19 09:47:46 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/articles"}
+  Rendering public/index.html
+  Rendered public/index.html (2.0ms)
+Completed 200 OK in 189ms (Views: 188.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/articles" for 127.0.0.1 at 2017-07-19 09:50:46 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/articles"}
+  Rendering public/index.html
+  Rendered public/index.html (21.0ms)
+Completed 200 OK in 150ms (Views: 149.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/user" for 127.0.0.1 at 2017-07-19 09:53:04 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/user"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 137ms (Views: 136.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/user" for 127.0.0.1 at 2017-07-19 09:53:18 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/user"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 105ms (Views: 105.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/user" for 127.0.0.1 at 2017-07-19 09:54:01 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/user"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 116ms (Views: 115.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/user" for 127.0.0.1 at 2017-07-19 09:54:20 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/user"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 82ms (Views: 82.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/user" for 127.0.0.1 at 2017-07-19 09:56:58 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/user"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 105ms (Views: 105.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/user" for 127.0.0.1 at 2017-07-19 09:58:19 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/user"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 158ms (Views: 157.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/user" for 127.0.0.1 at 2017-07-19 09:58:38 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/user"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 94ms (Views: 94.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/user" for 127.0.0.1 at 2017-07-19 09:59:21 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/user"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 85ms (Views: 84.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/user" for 127.0.0.1 at 2017-07-19 10:00:14 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/user"}
+  Rendering public/index.html
+  Rendered public/index.html (2.0ms)
+Completed 200 OK in 106ms (Views: 105.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/user" for 127.0.0.1 at 2017-07-19 10:00:25 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/user"}
+  Rendering public/index.html
+  Rendered public/index.html (3.0ms)
+Completed 200 OK in 104ms (Views: 104.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/user" for 127.0.0.1 at 2017-07-19 10:03:03 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/user"}
+  Rendering public/index.html
+  Rendered public/index.html (17.0ms)
+Completed 200 OK in 120ms (Views: 119.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/user" for 127.0.0.1 at 2017-07-19 10:03:28 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/user"}
+  Rendering public/index.html
+  Rendered public/index.html (2.0ms)
+Completed 200 OK in 90ms (Views: 89.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/user" for 127.0.0.1 at 2017-07-19 10:04:11 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/user"}
+  Rendering public/index.html
+  Rendered public/index.html (19.0ms)
+Completed 200 OK in 153ms (Views: 152.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/user" for 127.0.0.1 at 2017-07-19 10:05:26 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/user"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 84ms (Views: 83.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/user" for 127.0.0.1 at 2017-07-19 10:06:26 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/user"}
+  Rendering public/index.html
+  Rendered public/index.html (2.0ms)
+Completed 200 OK in 134ms (Views: 133.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/user" for 127.0.0.1 at 2017-07-19 10:06:50 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/user"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 130ms (Views: 128.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/user" for 127.0.0.1 at 2017-07-19 10:07:20 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/user"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 143ms (Views: 143.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 12:55:08 +0700
+  [1m[36mActiveRecord::SchemaMigration Load (1.0ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (4.0ms)
+Completed 200 OK in 139ms (Views: 138.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/articles" for 127.0.0.1 at 2017-07-19 12:56:42 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/articles"}
+Completed 500 Internal Server Error in 94ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::MissingTemplate (Missing template public/index.html with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby]}. Searched in:
+  * "C:/Users/phorn.borrom/Desktop/web/p-blog/app/views"
+  * "C:/Users/phorn.borrom/Desktop/web/p-blog"
+  * "C:/"
+):
+  
+app/controllers/application_controller.rb:4:in `index'
+Started GET "/favicon.ico" for 127.0.0.1 at 2017-07-19 12:56:42 +0700
+Processing by ApplicationController#index as 
+  Parameters: {"any"=>"favicon"}
+Completed 500 Internal Server Error in 914ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::MissingTemplate (Missing template public/index.html with {:locale=>[:en], :formats=>[:html, :text, :js, :css, :ics, :csv, :vcf, :png, :jpeg, :gif, :bmp, :tiff, :svg, :mpeg, :xml, :rss, :atom, :yaml, :multipart_form, :url_encoded_form, :json, :pdf, :zip, :gzip], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby]}. Searched in:
+  * "C:/Users/phorn.borrom/Desktop/web/p-blog/app/views"
+  * "C:/Users/phorn.borrom/Desktop/web/p-blog"
+  * "C:/"
+):
+  
+app/controllers/application_controller.rb:4:in `index'
+Started GET "/backend/articles" for 127.0.0.1 at 2017-07-19 12:56:45 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/articles"}
+Completed 500 Internal Server Error in 100ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::MissingTemplate (Missing template public/index.html with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby]}. Searched in:
+  * "C:/Users/phorn.borrom/Desktop/web/p-blog/app/views"
+  * "C:/Users/phorn.borrom/Desktop/web/p-blog"
+  * "C:/"
+):
+  
+app/controllers/application_controller.rb:4:in `index'
+Started GET "/favicon.ico" for 127.0.0.1 at 2017-07-19 12:56:45 +0700
+Processing by ApplicationController#index as 
+  Parameters: {"any"=>"favicon"}
+Completed 500 Internal Server Error in 823ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::MissingTemplate (Missing template public/index.html with {:locale=>[:en], :formats=>[:html, :text, :js, :css, :ics, :csv, :vcf, :png, :jpeg, :gif, :bmp, :tiff, :svg, :mpeg, :xml, :rss, :atom, :yaml, :multipart_form, :url_encoded_form, :json, :pdf, :zip, :gzip], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby]}. Searched in:
+  * "C:/Users/phorn.borrom/Desktop/web/p-blog/app/views"
+  * "C:/Users/phorn.borrom/Desktop/web/p-blog"
+  * "C:/"
+):
+  
+app/controllers/application_controller.rb:4:in `index'
+Started GET "/backend/articles" for 127.0.0.1 at 2017-07-19 13:03:08 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/articles"}
+  Rendering public/index.html
+  Rendered public/index.html (1.5ms)
+Completed 200 OK in 117ms (Views: 115.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/articles" for 127.0.0.1 at 2017-07-19 13:03:23 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/articles"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 101ms (Views: 101.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/articles" for 127.0.0.1 at 2017-07-19 13:04:02 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/articles"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 138ms (Views: 137.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/articles" for 127.0.0.1 at 2017-07-19 13:04:27 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/articles"}
+  Rendering public/index.html
+  Rendered public/index.html (1.5ms)
+Completed 200 OK in 120ms (Views: 119.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/articles" for 127.0.0.1 at 2017-07-19 13:05:13 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/articles"}
+  Rendering public/index.html
+  Rendered public/index.html (3.5ms)
+Completed 200 OK in 134ms (Views: 134.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 13:05:56 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 88ms (Views: 87.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 13:06:07 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+Completed 500 Internal Server Error in 86ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::MissingTemplate (Missing template public/index.html with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby]}. Searched in:
+  * "C:/Users/phorn.borrom/Desktop/web/p-blog/app/views"
+  * "C:/Users/phorn.borrom/Desktop/web/p-blog"
+  * "C:/"
+):
+  
+app/controllers/application_controller.rb:4:in `index'
+Started GET "/favicon.ico" for 127.0.0.1 at 2017-07-19 13:06:08 +0700
+Processing by ApplicationController#index as 
+  Parameters: {"any"=>"favicon"}
+Completed 500 Internal Server Error in 664ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::MissingTemplate (Missing template public/index.html with {:locale=>[:en], :formats=>[:html, :text, :js, :css, :ics, :csv, :vcf, :png, :jpeg, :gif, :bmp, :tiff, :svg, :mpeg, :xml, :rss, :atom, :yaml, :multipart_form, :url_encoded_form, :json, :pdf, :zip, :gzip], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby]}. Searched in:
+  * "C:/Users/phorn.borrom/Desktop/web/p-blog/app/views"
+  * "C:/Users/phorn.borrom/Desktop/web/p-blog"
+  * "C:/"
+):
+  
+app/controllers/application_controller.rb:4:in `index'
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 13:06:15 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+Completed 500 Internal Server Error in 63ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::MissingTemplate (Missing template public/index.html with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby]}. Searched in:
+  * "C:/Users/phorn.borrom/Desktop/web/p-blog/app/views"
+  * "C:/Users/phorn.borrom/Desktop/web/p-blog"
+  * "C:/"
+):
+  
+app/controllers/application_controller.rb:4:in `index'
+Started GET "/favicon.ico" for 127.0.0.1 at 2017-07-19 13:06:15 +0700
+Processing by ApplicationController#index as 
+  Parameters: {"any"=>"favicon"}
+Completed 500 Internal Server Error in 891ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::MissingTemplate (Missing template public/index.html with {:locale=>[:en], :formats=>[:html, :text, :js, :css, :ics, :csv, :vcf, :png, :jpeg, :gif, :bmp, :tiff, :svg, :mpeg, :xml, :rss, :atom, :yaml, :multipart_form, :url_encoded_form, :json, :pdf, :zip, :gzip], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby]}. Searched in:
+  * "C:/Users/phorn.borrom/Desktop/web/p-blog/app/views"
+  * "C:/Users/phorn.borrom/Desktop/web/p-blog"
+  * "C:/"
+):
+  
+app/controllers/application_controller.rb:4:in `index'
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 13:06:17 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+Completed 500 Internal Server Error in 53ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::MissingTemplate (Missing template public/index.html with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby]}. Searched in:
+  * "C:/Users/phorn.borrom/Desktop/web/p-blog/app/views"
+  * "C:/Users/phorn.borrom/Desktop/web/p-blog"
+  * "C:/"
+):
+  
+app/controllers/application_controller.rb:4:in `index'
+Started GET "/favicon.ico" for 127.0.0.1 at 2017-07-19 13:06:17 +0700
+Processing by ApplicationController#index as 
+  Parameters: {"any"=>"favicon"}
+Completed 500 Internal Server Error in 1060ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::MissingTemplate (Missing template public/index.html with {:locale=>[:en], :formats=>[:html, :text, :js, :css, :ics, :csv, :vcf, :png, :jpeg, :gif, :bmp, :tiff, :svg, :mpeg, :xml, :rss, :atom, :yaml, :multipart_form, :url_encoded_form, :json, :pdf, :zip, :gzip], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby]}. Searched in:
+  * "C:/Users/phorn.borrom/Desktop/web/p-blog/app/views"
+  * "C:/Users/phorn.borrom/Desktop/web/p-blog"
+  * "C:/"
+):
+  
+app/controllers/application_controller.rb:4:in `index'
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 13:06:19 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+Completed 500 Internal Server Error in 52ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::MissingTemplate (Missing template public/index.html with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby]}. Searched in:
+  * "C:/Users/phorn.borrom/Desktop/web/p-blog/app/views"
+  * "C:/Users/phorn.borrom/Desktop/web/p-blog"
+  * "C:/"
+):
+  
+app/controllers/application_controller.rb:4:in `index'
+Started GET "/favicon.ico" for 127.0.0.1 at 2017-07-19 13:06:19 +0700
+Processing by ApplicationController#index as 
+  Parameters: {"any"=>"favicon"}
+Completed 500 Internal Server Error in 931ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::MissingTemplate (Missing template public/index.html with {:locale=>[:en], :formats=>[:html, :text, :js, :css, :ics, :csv, :vcf, :png, :jpeg, :gif, :bmp, :tiff, :svg, :mpeg, :xml, :rss, :atom, :yaml, :multipart_form, :url_encoded_form, :json, :pdf, :zip, :gzip], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby]}. Searched in:
+  * "C:/Users/phorn.borrom/Desktop/web/p-blog/app/views"
+  * "C:/Users/phorn.borrom/Desktop/web/p-blog"
+  * "C:/"
+):
+  
+app/controllers/application_controller.rb:4:in `index'
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 13:06:20 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+Completed 500 Internal Server Error in 78ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::MissingTemplate (Missing template public/index.html with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby]}. Searched in:
+  * "C:/Users/phorn.borrom/Desktop/web/p-blog/app/views"
+  * "C:/Users/phorn.borrom/Desktop/web/p-blog"
+  * "C:/"
+):
+  
+app/controllers/application_controller.rb:4:in `index'
+Started GET "/favicon.ico" for 127.0.0.1 at 2017-07-19 13:06:21 +0700
+Processing by ApplicationController#index as 
+  Parameters: {"any"=>"favicon"}
+Completed 500 Internal Server Error in 881ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::MissingTemplate (Missing template public/index.html with {:locale=>[:en], :formats=>[:html, :text, :js, :css, :ics, :csv, :vcf, :png, :jpeg, :gif, :bmp, :tiff, :svg, :mpeg, :xml, :rss, :atom, :yaml, :multipart_form, :url_encoded_form, :json, :pdf, :zip, :gzip], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby]}. Searched in:
+  * "C:/Users/phorn.borrom/Desktop/web/p-blog/app/views"
+  * "C:/Users/phorn.borrom/Desktop/web/p-blog"
+  * "C:/"
+):
+  
+app/controllers/application_controller.rb:4:in `index'
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 13:06:23 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+Completed 500 Internal Server Error in 54ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::MissingTemplate (Missing template public/index.html with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby]}. Searched in:
+  * "C:/Users/phorn.borrom/Desktop/web/p-blog/app/views"
+  * "C:/Users/phorn.borrom/Desktop/web/p-blog"
+  * "C:/"
+):
+  
+app/controllers/application_controller.rb:4:in `index'
+Started GET "/favicon.ico" for 127.0.0.1 at 2017-07-19 13:06:23 +0700
+Processing by ApplicationController#index as 
+  Parameters: {"any"=>"favicon"}
+Completed 500 Internal Server Error in 842ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::MissingTemplate (Missing template public/index.html with {:locale=>[:en], :formats=>[:html, :text, :js, :css, :ics, :csv, :vcf, :png, :jpeg, :gif, :bmp, :tiff, :svg, :mpeg, :xml, :rss, :atom, :yaml, :multipart_form, :url_encoded_form, :json, :pdf, :zip, :gzip], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby]}. Searched in:
+  * "C:/Users/phorn.borrom/Desktop/web/p-blog/app/views"
+  * "C:/Users/phorn.borrom/Desktop/web/p-blog"
+  * "C:/"
+):
+  
+app/controllers/application_controller.rb:4:in `index'
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 13:06:26 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+Completed 500 Internal Server Error in 65ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::MissingTemplate (Missing template public/index.html with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby]}. Searched in:
+  * "C:/Users/phorn.borrom/Desktop/web/p-blog/app/views"
+  * "C:/Users/phorn.borrom/Desktop/web/p-blog"
+  * "C:/"
+):
+  
+app/controllers/application_controller.rb:4:in `index'
+Started GET "/favicon.ico" for 127.0.0.1 at 2017-07-19 13:06:27 +0700
+Processing by ApplicationController#index as 
+  Parameters: {"any"=>"favicon"}
+Completed 500 Internal Server Error in 834ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::MissingTemplate (Missing template public/index.html with {:locale=>[:en], :formats=>[:html, :text, :js, :css, :ics, :csv, :vcf, :png, :jpeg, :gif, :bmp, :tiff, :svg, :mpeg, :xml, :rss, :atom, :yaml, :multipart_form, :url_encoded_form, :json, :pdf, :zip, :gzip], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby]}. Searched in:
+  * "C:/Users/phorn.borrom/Desktop/web/p-blog/app/views"
+  * "C:/Users/phorn.borrom/Desktop/web/p-blog"
+  * "C:/"
+):
+  
+app/controllers/application_controller.rb:4:in `index'
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 13:06:29 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 163ms (Views: 163.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/articles" for 127.0.0.1 at 2017-07-19 13:07:31 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/articles"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 98ms (Views: 97.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/articles" for 127.0.0.1 at 2017-07-19 13:09:18 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/articles"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 80ms (Views: 79.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/articles" for 127.0.0.1 at 2017-07-19 13:11:51 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/articles"}
+  Rendering public/index.html
+  Rendered public/index.html (22.0ms)
+Completed 200 OK in 117ms (Views: 116.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/articles" for 127.0.0.1 at 2017-07-19 13:12:35 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/articles"}
+  Rendering public/index.html
+  Rendered public/index.html (11.0ms)
+Completed 200 OK in 200ms (Views: 178.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/articles" for 127.0.0.1 at 2017-07-19 13:12:40 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/articles"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 107ms (Views: 106.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/articles" for 127.0.0.1 at 2017-07-19 13:12:42 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/articles"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 116ms (Views: 115.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/articles" for 127.0.0.1 at 2017-07-19 13:12:51 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/articles"}
+  Rendering public/index.html
+  Rendered public/index.html (9.1ms)
+Completed 200 OK in 131ms (Views: 130.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/articles" for 127.0.0.1 at 2017-07-19 13:12:53 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/articles"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 82ms (Views: 82.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/articles" for 127.0.0.1 at 2017-07-19 13:13:23 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/articles"}
+  Rendering public/index.html
+  Rendered public/index.html (9.6ms)
+Completed 200 OK in 95ms (Views: 94.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/articles" for 127.0.0.1 at 2017-07-19 13:13:33 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/articles"}
+  Rendering public/index.html
+  Rendered public/index.html (2.0ms)
+Completed 200 OK in 129ms (Views: 129.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/articles" for 127.0.0.1 at 2017-07-19 13:13:51 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/articles"}
+  Rendering public/index.html
+  Rendered public/index.html (15.0ms)
+Completed 200 OK in 183ms (Views: 182.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/articles" for 127.0.0.1 at 2017-07-19 13:14:48 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/articles"}
+  Rendering public/index.html
+  Rendered public/index.html (14.6ms)
+Completed 200 OK in 132ms (Views: 131.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/articles" for 127.0.0.1 at 2017-07-19 13:15:02 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/articles"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 101ms (Views: 100.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/articles" for 127.0.0.1 at 2017-07-19 13:19:41 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/articles"}
+  Rendering public/index.html
+  Rendered public/index.html (2.0ms)
+Completed 200 OK in 134ms (Views: 132.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/articles" for 127.0.0.1 at 2017-07-19 13:19:44 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/articles"}
+  Rendering public/index.html
+  Rendered public/index.html (10.0ms)
+Completed 200 OK in 92ms (Views: 92.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/articles" for 127.0.0.1 at 2017-07-19 13:19:56 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/articles"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 83ms (Views: 82.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/articles" for 127.0.0.1 at 2017-07-19 13:20:50 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/articles"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 148ms (Views: 147.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/articles" for 127.0.0.1 at 2017-07-19 13:20:53 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/articles"}
+  Rendering public/index.html
+  Rendered public/index.html (6.0ms)
+Completed 200 OK in 93ms (Views: 92.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/articles" for 127.0.0.1 at 2017-07-19 13:21:02 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/articles"}
+  Rendering public/index.html
+  Rendered public/index.html (1.5ms)
+Completed 200 OK in 107ms (Views: 105.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/articles" for 127.0.0.1 at 2017-07-19 13:21:35 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/articles"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 111ms (Views: 110.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/articles" for 127.0.0.1 at 2017-07-19 13:22:06 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/articles"}
+  Rendering public/index.html
+  Rendered public/index.html (47.1ms)
+Completed 200 OK in 211ms (Views: 210.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/user" for 127.0.0.1 at 2017-07-19 13:23:16 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/user"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 110ms (Views: 110.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/user" for 127.0.0.1 at 2017-07-19 13:23:41 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/user"}
+  Rendering public/index.html
+  Rendered public/index.html (11.0ms)
+Completed 200 OK in 92ms (Views: 92.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/articles" for 127.0.0.1 at 2017-07-19 13:24:47 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/articles"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 88ms (Views: 87.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/articles" for 127.0.0.1 at 2017-07-19 13:25:54 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/articles"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 109ms (Views: 109.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/articles" for 127.0.0.1 at 2017-07-19 13:26:18 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/articles"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 111ms (Views: 111.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/articles" for 127.0.0.1 at 2017-07-19 13:26:20 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/articles"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 124ms (Views: 123.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/articles" for 127.0.0.1 at 2017-07-19 13:26:24 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/articles"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 87ms (Views: 86.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/articles" for 127.0.0.1 at 2017-07-19 13:26:46 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/articles"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 93ms (Views: 93.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/articles" for 127.0.0.1 at 2017-07-19 13:26:49 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/articles"}
+  Rendering public/index.html
+  Rendered public/index.html (2.0ms)
+Completed 200 OK in 110ms (Views: 110.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/articles" for 127.0.0.1 at 2017-07-19 13:26:50 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/articles"}
+  Rendering public/index.html
+  Rendered public/index.html (2.0ms)
+Completed 200 OK in 95ms (Views: 94.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/articles" for 127.0.0.1 at 2017-07-19 13:26:59 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/articles"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 92ms (Views: 91.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/articles" for 127.0.0.1 at 2017-07-19 13:28:42 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/articles"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 119ms (Views: 119.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/articles" for 127.0.0.1 at 2017-07-19 13:30:54 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/articles"}
+  Rendering public/index.html
+  Rendered public/index.html (3.0ms)
+Completed 200 OK in 89ms (Views: 88.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/user" for 127.0.0.1 at 2017-07-19 13:31:31 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/user"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 89ms (Views: 88.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 13:31:52 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 84ms (Views: 83.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 13:32:49 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 82ms (Views: 81.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 13:32:53 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 80ms (Views: 79.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 13:33:25 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 87ms (Views: 87.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 13:33:35 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 87ms (Views: 86.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 13:33:57 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 79ms (Views: 78.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/" for 127.0.0.1 at 2017-07-19 13:34:07 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 87ms (Views: 86.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/article" for 127.0.0.1 at 2017-07-19 13:34:34 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/article"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 82ms (Views: 81.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/articles" for 127.0.0.1 at 2017-07-19 13:34:46 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/articles"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 98ms (Views: 96.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/articles" for 127.0.0.1 at 2017-07-19 13:35:11 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/articles"}
+  Rendering public/index.html
+  Rendered public/index.html (0.5ms)
+Completed 200 OK in 106ms (Views: 105.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/articles" for 127.0.0.1 at 2017-07-19 13:35:13 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/articles"}
+  Rendering public/index.html
+  Rendered public/index.html (0.5ms)
+Completed 200 OK in 152ms (Views: 150.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/articles" for 127.0.0.1 at 2017-07-19 13:35:33 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/articles"}
+  Rendering public/index.html
+  Rendered public/index.html (0.5ms)
+Completed 200 OK in 125ms (Views: 125.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/articles" for 127.0.0.1 at 2017-07-19 13:35:41 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/articles"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 77ms (Views: 77.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/articles" for 127.0.0.1 at 2017-07-19 13:35:43 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/articles"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 84ms (Views: 84.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/articles" for 127.0.0.1 at 2017-07-19 13:36:01 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/articles"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 109ms (Views: 108.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/articles" for 127.0.0.1 at 2017-07-19 13:36:04 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/articles"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 85ms (Views: 85.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/articles" for 127.0.0.1 at 2017-07-19 13:37:17 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/articles"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 104ms (Views: 103.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 13:37:29 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 96ms (Views: 96.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend=" for 127.0.0.1 at 2017-07-19 13:37:32 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend="}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 79ms (Views: 79.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 13:38:54 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (25.0ms)
+Completed 200 OK in 151ms (Views: 151.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 13:40:30 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (17.4ms)
+Completed 200 OK in 158ms (Views: 156.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 13:40:33 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 150ms (Views: 150.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 13:40:46 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (24.0ms)
+Completed 200 OK in 120ms (Views: 119.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 13:42:08 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (31.0ms)
+Completed 200 OK in 170ms (Views: 168.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 13:44:51 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 113ms (Views: 112.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 13:45:09 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (11.0ms)
+Completed 200 OK in 113ms (Views: 113.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 13:47:16 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (39.0ms)
+Completed 200 OK in 191ms (Views: 191.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 13:47:38 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (6.0ms)
+Completed 200 OK in 122ms (Views: 122.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 13:51:02 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (47.6ms)
+Completed 200 OK in 231ms (Views: 219.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 13:51:05 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (33.5ms)
+Completed 200 OK in 116ms (Views: 115.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 13:51:15 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (4.0ms)
+Completed 200 OK in 108ms (Views: 109.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 13:51:52 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (12.0ms)
+Completed 200 OK in 173ms (Views: 172.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 13:52:49 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (20.1ms)
+Completed 200 OK in 159ms (Views: 158.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 13:52:55 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (4.0ms)
+Completed 200 OK in 101ms (Views: 101.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 13:53:57 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 141ms (Views: 141.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 13:54:00 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (4.0ms)
+Completed 200 OK in 89ms (Views: 86.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 13:55:30 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+Completed 500 Internal Server Error in 532ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::MissingTemplate (Missing template public/index.html with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby]}. Searched in:
+  * "C:/Users/phorn.borrom/Desktop/web/p-blog/app/views"
+  * "C:/Users/phorn.borrom/Desktop/web/p-blog"
+  * "C:/"
+):
+  
+app/controllers/application_controller.rb:4:in `index'
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 13:55:35 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+Completed 500 Internal Server Error in 79ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::MissingTemplate (Missing template public/index.html with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby]}. Searched in:
+  * "C:/Users/phorn.borrom/Desktop/web/p-blog/app/views"
+  * "C:/Users/phorn.borrom/Desktop/web/p-blog"
+  * "C:/"
+):
+  
+app/controllers/application_controller.rb:4:in `index'
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 13:55:38 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+Completed 500 Internal Server Error in 70ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::MissingTemplate (Missing template public/index.html with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby]}. Searched in:
+  * "C:/Users/phorn.borrom/Desktop/web/p-blog/app/views"
+  * "C:/Users/phorn.borrom/Desktop/web/p-blog"
+  * "C:/"
+):
+  
+app/controllers/application_controller.rb:4:in `index'
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 13:55:40 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+Completed 500 Internal Server Error in 67ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::MissingTemplate (Missing template public/index.html with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby]}. Searched in:
+  * "C:/Users/phorn.borrom/Desktop/web/p-blog/app/views"
+  * "C:/Users/phorn.borrom/Desktop/web/p-blog"
+  * "C:/"
+):
+  
+app/controllers/application_controller.rb:4:in `index'
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 13:55:42 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+Completed 500 Internal Server Error in 57ms (ActiveRecord: 0.0ms)
+
+
+  
+ActionView::MissingTemplate (Missing template public/index.html with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby]}. Searched in:
+  * "C:/Users/phorn.borrom/Desktop/web/p-blog/app/views"
+  * "C:/Users/phorn.borrom/Desktop/web/p-blog"
+  * "C:/"
+):
+  
+app/controllers/application_controller.rb:4:in `index'
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 13:56:06 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (36.0ms)
+Completed 200 OK in 150ms (Views: 150.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 13:58:09 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 87ms (Views: 88.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 13:58:16 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 173ms (Views: 175.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 13:58:28 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 126ms (Views: 128.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 14:05:37 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (2.5ms)
+Completed 200 OK in 108ms (Views: 105.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 14:08:28 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 100ms (Views: 99.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/angular" for 127.0.0.1 at 2017-07-19 14:09:14 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"angular"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 182ms (Views: 181.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 14:09:17 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 93ms (Views: 92.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 14:09:25 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 111ms (Views: 111.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 14:09:28 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (3.0ms)
+Completed 200 OK in 115ms (Views: 115.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 14:09:33 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 102ms (Views: 101.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 14:10:06 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (12.0ms)
+Completed 200 OK in 101ms (Views: 100.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 14:10:41 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (90.1ms)
+Completed 200 OK in 243ms (Views: 243.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/android" for 127.0.0.1 at 2017-07-19 14:12:29 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"android"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 116ms (Views: 116.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 14:12:32 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (15.5ms)
+Completed 200 OK in 106ms (Views: 105.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 14:12:36 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 120ms (Views: 119.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 14:12:50 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 81ms (Views: 80.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 14:13:31 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 128ms (Views: 128.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 14:13:34 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (25.6ms)
+Completed 200 OK in 143ms (Views: 142.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 14:13:44 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (14.0ms)
+Completed 200 OK in 103ms (Views: 102.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 14:14:17 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (14.0ms)
+Completed 200 OK in 111ms (Views: 111.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/user" for 127.0.0.1 at 2017-07-19 14:16:03 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/user"}
+  Rendering public/index.html
+  Rendered public/index.html (10.0ms)
+Completed 200 OK in 123ms (Views: 122.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/user" for 127.0.0.1 at 2017-07-19 14:16:30 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/user"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 267ms (Views: 266.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/user" for 127.0.0.1 at 2017-07-19 14:16:46 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/user"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 160ms (Views: 158.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/android" for 127.0.0.1 at 2017-07-19 14:16:51 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"android"}
+  Rendering public/index.html
+  Rendered public/index.html (1.5ms)
+Completed 200 OK in 131ms (Views: 130.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/user" for 127.0.0.1 at 2017-07-19 14:16:54 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/user"}
+  Rendering public/index.html
+  Rendered public/index.html (0.5ms)
+Completed 200 OK in 111ms (Views: 110.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/user" for 127.0.0.1 at 2017-07-19 14:30:02 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/user"}
+  Rendering public/index.html
+  Rendered public/index.html (109.1ms)
+Completed 200 OK in 225ms (Views: 224.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 14:41:25 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (15.5ms)
+Completed 200 OK in 131ms (Views: 130.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/icons.af7ae505a9eed503f8b8.woff2" for 127.0.0.1 at 2017-07-19 14:41:26 +0700
+Processing by ApplicationController#index as 
+  Parameters: {"any"=>"icons.af7ae505a9eed503f8b8"}
+  Rendering public/index.html
+  Rendered public/index.html (19.0ms)
+Completed 200 OK in 861ms (Views: 860.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 14:41:37 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 145ms (Views: 144.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/icons.af7ae505a9eed503f8b8.woff2" for 127.0.0.1 at 2017-07-19 14:41:38 +0700
+Processing by ApplicationController#index as 
+  Parameters: {"any"=>"icons.af7ae505a9eed503f8b8"}
+  Rendering public/index.html
+  Rendered public/index.html (17.0ms)
+Completed 200 OK in 795ms (Views: 795.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/icons.fee66e712a8a08eef580.woff" for 127.0.0.1 at 2017-07-19 14:41:39 +0700
+Processing by ApplicationController#index as 
+  Parameters: {"any"=>"icons.fee66e712a8a08eef580"}
+  Rendering public/index.html
+  Rendered public/index.html (12.0ms)
+Completed 200 OK in 566ms (Views: 566.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/icons.b06871f281fee6b241d6.ttf" for 127.0.0.1 at 2017-07-19 14:41:39 +0700
+Processing by ApplicationController#index as 
+  Parameters: {"any"=>"icons.b06871f281fee6b241d6"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 646ms (Views: 645.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 14:41:59 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (21.0ms)
+Completed 200 OK in 103ms (Views: 102.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/icons.af7ae505a9eed503f8b8.woff2" for 127.0.0.1 at 2017-07-19 14:42:00 +0700
+Processing by ApplicationController#index as 
+  Parameters: {"any"=>"icons.af7ae505a9eed503f8b8"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 695ms (Views: 694.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/icons.fee66e712a8a08eef580.woff" for 127.0.0.1 at 2017-07-19 14:42:01 +0700
+Processing by ApplicationController#index as 
+  Parameters: {"any"=>"icons.fee66e712a8a08eef580"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 581ms (Views: 581.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/icons.b06871f281fee6b241d6.ttf" for 127.0.0.1 at 2017-07-19 14:42:01 +0700
+Processing by ApplicationController#index as 
+  Parameters: {"any"=>"icons.b06871f281fee6b241d6"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 667ms (Views: 667.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 14:42:35 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 151ms (Views: 151.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/icons.af7ae505a9eed503f8b8.woff2" for 127.0.0.1 at 2017-07-19 14:42:36 +0700
+Processing by ApplicationController#index as 
+  Parameters: {"any"=>"icons.af7ae505a9eed503f8b8"}
+  Rendering public/index.html
+  Rendered public/index.html (27.0ms)
+Completed 200 OK in 1140ms (Views: 1138.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/icons.fee66e712a8a08eef580.woff" for 127.0.0.1 at 2017-07-19 14:42:38 +0700
+Processing by ApplicationController#index as 
+  Parameters: {"any"=>"icons.fee66e712a8a08eef580"}
+  Rendering public/index.html
+  Rendered public/index.html (3.0ms)
+Completed 200 OK in 1090ms (Views: 1090.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/icons.b06871f281fee6b241d6.ttf" for 127.0.0.1 at 2017-07-19 14:42:39 +0700
+Processing by ApplicationController#index as 
+  Parameters: {"any"=>"icons.b06871f281fee6b241d6"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 904ms (Views: 904.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 14:43:35 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 132ms (Views: 131.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/icons.af7ae505a9eed503f8b8.woff2" for 127.0.0.1 at 2017-07-19 14:43:36 +0700
+Processing by ApplicationController#index as 
+  Parameters: {"any"=>"icons.af7ae505a9eed503f8b8"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 1051ms (Views: 1050.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/icons.fee66e712a8a08eef580.woff" for 127.0.0.1 at 2017-07-19 14:43:37 +0700
+Processing by ApplicationController#index as 
+  Parameters: {"any"=>"icons.fee66e712a8a08eef580"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 638ms (Views: 638.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/icons.b06871f281fee6b241d6.ttf" for 127.0.0.1 at 2017-07-19 14:43:38 +0700
+Processing by ApplicationController#index as 
+  Parameters: {"any"=>"icons.b06871f281fee6b241d6"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 654ms (Views: 654.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 14:45:02 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 90ms (Views: 89.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/icons.af7ae505a9eed503f8b8.woff2" for 127.0.0.1 at 2017-07-19 14:45:02 +0700
+Processing by ApplicationController#index as 
+  Parameters: {"any"=>"icons.af7ae505a9eed503f8b8"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 639ms (Views: 638.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/icons.fee66e712a8a08eef580.woff" for 127.0.0.1 at 2017-07-19 14:45:03 +0700
+Processing by ApplicationController#index as 
+  Parameters: {"any"=>"icons.fee66e712a8a08eef580"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 566ms (Views: 566.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/icons.b06871f281fee6b241d6.ttf" for 127.0.0.1 at 2017-07-19 14:45:04 +0700
+Processing by ApplicationController#index as 
+  Parameters: {"any"=>"icons.b06871f281fee6b241d6"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 592ms (Views: 592.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 14:45:08 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 94ms (Views: 94.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/icons.af7ae505a9eed503f8b8.woff2" for 127.0.0.1 at 2017-07-19 14:45:08 +0700
+Processing by ApplicationController#index as 
+  Parameters: {"any"=>"icons.af7ae505a9eed503f8b8"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 711ms (Views: 710.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/icons.fee66e712a8a08eef580.woff" for 127.0.0.1 at 2017-07-19 14:45:09 +0700
+Processing by ApplicationController#index as 
+  Parameters: {"any"=>"icons.fee66e712a8a08eef580"}
+  Rendering public/index.html
+  Rendered public/index.html (11.0ms)
+Completed 200 OK in 639ms (Views: 639.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/icons.b06871f281fee6b241d6.ttf" for 127.0.0.1 at 2017-07-19 14:45:10 +0700
+Processing by ApplicationController#index as 
+  Parameters: {"any"=>"icons.b06871f281fee6b241d6"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 606ms (Views: 605.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 14:45:19 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 145ms (Views: 144.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/icons.af7ae505a9eed503f8b8.woff2" for 127.0.0.1 at 2017-07-19 14:45:19 +0700
+Processing by ApplicationController#index as 
+  Parameters: {"any"=>"icons.af7ae505a9eed503f8b8"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 993ms (Views: 992.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/icons.fee66e712a8a08eef580.woff" for 127.0.0.1 at 2017-07-19 14:45:20 +0700
+Processing by ApplicationController#index as 
+  Parameters: {"any"=>"icons.fee66e712a8a08eef580"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 743ms (Views: 742.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/icons.b06871f281fee6b241d6.ttf" for 127.0.0.1 at 2017-07-19 14:45:21 +0700
+Processing by ApplicationController#index as 
+  Parameters: {"any"=>"icons.b06871f281fee6b241d6"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 568ms (Views: 567.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 14:47:11 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (3.0ms)
+Completed 200 OK in 87ms (Views: 87.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/icons.af7ae505a9eed503f8b8.woff2" for 127.0.0.1 at 2017-07-19 14:47:11 +0700
+Processing by ApplicationController#index as 
+  Parameters: {"any"=>"icons.af7ae505a9eed503f8b8"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 706ms (Views: 705.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/icons.fee66e712a8a08eef580.woff" for 127.0.0.1 at 2017-07-19 14:47:12 +0700
+Processing by ApplicationController#index as 
+  Parameters: {"any"=>"icons.fee66e712a8a08eef580"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 587ms (Views: 587.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/icons.b06871f281fee6b241d6.ttf" for 127.0.0.1 at 2017-07-19 14:47:13 +0700
+Processing by ApplicationController#index as 
+  Parameters: {"any"=>"icons.b06871f281fee6b241d6"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 589ms (Views: 589.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 14:47:59 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 89ms (Views: 89.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/icons.af7ae505a9eed503f8b8.woff2" for 127.0.0.1 at 2017-07-19 14:48:00 +0700
+Processing by ApplicationController#index as 
+  Parameters: {"any"=>"icons.af7ae505a9eed503f8b8"}
+  Rendering public/index.html
+  Rendered public/index.html (10.0ms)
+Completed 200 OK in 732ms (Views: 731.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/icons.fee66e712a8a08eef580.woff" for 127.0.0.1 at 2017-07-19 14:48:01 +0700
+Processing by ApplicationController#index as 
+  Parameters: {"any"=>"icons.fee66e712a8a08eef580"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 697ms (Views: 696.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/icons.b06871f281fee6b241d6.ttf" for 127.0.0.1 at 2017-07-19 14:48:01 +0700
+Processing by ApplicationController#index as 
+  Parameters: {"any"=>"icons.b06871f281fee6b241d6"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 586ms (Views: 585.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 14:48:13 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 98ms (Views: 97.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/icons.af7ae505a9eed503f8b8.woff2" for 127.0.0.1 at 2017-07-19 14:48:13 +0700
+Processing by ApplicationController#index as 
+  Parameters: {"any"=>"icons.af7ae505a9eed503f8b8"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 672ms (Views: 671.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/icons.fee66e712a8a08eef580.woff" for 127.0.0.1 at 2017-07-19 14:48:14 +0700
+Processing by ApplicationController#index as 
+  Parameters: {"any"=>"icons.fee66e712a8a08eef580"}
+  Rendering public/index.html
+  Rendered public/index.html (11.1ms)
+Completed 200 OK in 566ms (Views: 565.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/icons.b06871f281fee6b241d6.ttf" for 127.0.0.1 at 2017-07-19 14:48:14 +0700
+Processing by ApplicationController#index as 
+  Parameters: {"any"=>"icons.b06871f281fee6b241d6"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 576ms (Views: 576.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 14:48:33 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 92ms (Views: 92.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/icons.af7ae505a9eed503f8b8.woff2" for 127.0.0.1 at 2017-07-19 14:48:34 +0700
+Processing by ApplicationController#index as 
+  Parameters: {"any"=>"icons.af7ae505a9eed503f8b8"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 648ms (Views: 648.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/icons.fee66e712a8a08eef580.woff" for 127.0.0.1 at 2017-07-19 14:48:34 +0700
+Processing by ApplicationController#index as 
+  Parameters: {"any"=>"icons.fee66e712a8a08eef580"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 607ms (Views: 607.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/icons.b06871f281fee6b241d6.ttf" for 127.0.0.1 at 2017-07-19 14:48:35 +0700
+Processing by ApplicationController#index as 
+  Parameters: {"any"=>"icons.b06871f281fee6b241d6"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 556ms (Views: 555.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-19 14:49:16 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (30.0ms)
+Completed 200 OK in 118ms (Views: 118.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/icons.af7ae505a9eed503f8b8.woff2" for 127.0.0.1 at 2017-07-19 14:49:17 +0700
+Processing by ApplicationController#index as 
+  Parameters: {"any"=>"icons.af7ae505a9eed503f8b8"}
+  Rendering public/index.html
+  Rendered public/index.html (14.5ms)
+Completed 200 OK in 946ms (Views: 946.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/icons.fee66e712a8a08eef580.woff" for 127.0.0.1 at 2017-07-19 14:49:18 +0700
+Processing by ApplicationController#index as 
+  Parameters: {"any"=>"icons.fee66e712a8a08eef580"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 600ms (Views: 600.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/icons.b06871f281fee6b241d6.ttf" for 127.0.0.1 at 2017-07-19 14:49:19 +0700
+Processing by ApplicationController#index as 
+  Parameters: {"any"=>"icons.b06871f281fee6b241d6"}
+  Rendering public/index.html
+  Rendered public/index.html (23.0ms)
+Completed 200 OK in 586ms (Views: 585.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 14:49:27 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 99ms (Views: 98.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/icons.af7ae505a9eed503f8b8.woff2" for 127.0.0.1 at 2017-07-19 14:49:28 +0700
+Processing by ApplicationController#index as 
+  Parameters: {"any"=>"icons.af7ae505a9eed503f8b8"}
+  Rendering public/index.html
+  Rendered public/index.html (2.0ms)
+Completed 200 OK in 655ms (Views: 654.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/icons.fee66e712a8a08eef580.woff" for 127.0.0.1 at 2017-07-19 14:49:29 +0700
+Processing by ApplicationController#index as 
+  Parameters: {"any"=>"icons.fee66e712a8a08eef580"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 585ms (Views: 584.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/icons.b06871f281fee6b241d6.ttf" for 127.0.0.1 at 2017-07-19 14:49:29 +0700
+Processing by ApplicationController#index as 
+  Parameters: {"any"=>"icons.b06871f281fee6b241d6"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 601ms (Views: 601.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 14:49:35 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 101ms (Views: 101.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/icons.af7ae505a9eed503f8b8.woff2" for 127.0.0.1 at 2017-07-19 14:49:35 +0700
+Processing by ApplicationController#index as 
+  Parameters: {"any"=>"icons.af7ae505a9eed503f8b8"}
+  Rendering public/index.html
+  Rendered public/index.html (42.0ms)
+Completed 200 OK in 787ms (Views: 786.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/icons.fee66e712a8a08eef580.woff" for 127.0.0.1 at 2017-07-19 14:49:36 +0700
+Processing by ApplicationController#index as 
+  Parameters: {"any"=>"icons.fee66e712a8a08eef580"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 545ms (Views: 545.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/icons.b06871f281fee6b241d6.ttf" for 127.0.0.1 at 2017-07-19 14:49:37 +0700
+Processing by ApplicationController#index as 
+  Parameters: {"any"=>"icons.b06871f281fee6b241d6"}
+  Rendering public/index.html
+  Rendered public/index.html (13.0ms)
+Completed 200 OK in 656ms (Views: 656.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 14:51:24 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 109ms (Views: 108.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 14:52:29 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (14.0ms)
+Completed 200 OK in 111ms (Views: 111.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 14:52:54 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (9.5ms)
+Completed 200 OK in 151ms (Views: 150.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 14:53:33 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (53.1ms)
+Completed 200 OK in 160ms (Views: 158.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 14:54:33 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 81ms (Views: 80.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 14:56:04 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 128ms (Views: 128.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 14:56:09 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (34.0ms)
+Completed 200 OK in 115ms (Views: 114.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 14:56:14 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 118ms (Views: 118.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 14:56:27 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 140ms (Views: 140.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 14:56:30 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 92ms (Views: 92.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 14:57:42 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 110ms (Views: 110.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 14:58:04 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 102ms (Views: 101.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 14:58:07 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 87ms (Views: 87.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 14:58:28 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (48.0ms)
+Completed 200 OK in 172ms (Views: 171.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 14:59:04 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 83ms (Views: 83.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 14:59:27 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 140ms (Views: 139.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 15:00:00 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 140ms (Views: 140.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 15:00:17 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 92ms (Views: 91.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 15:01:15 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 81ms (Views: 81.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 15:02:03 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (1.5ms)
+Completed 200 OK in 154ms (Views: 154.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 15:02:06 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (1.5ms)
+Completed 200 OK in 98ms (Views: 97.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 15:02:08 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 128ms (Views: 128.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 15:07:22 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (4.0ms)
+Completed 200 OK in 134ms (Views: 132.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 15:08:46 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 181ms (Views: 180.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 15:10:09 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 132ms (Views: 131.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 15:10:53 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 87ms (Views: 86.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 15:11:21 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 93ms (Views: 93.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 15:12:31 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (2.0ms)
+Completed 200 OK in 105ms (Views: 105.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 15:13:05 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 90ms (Views: 89.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 15:14:09 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 116ms (Views: 116.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 15:14:59 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 84ms (Views: 83.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 15:17:11 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (2.0ms)
+Completed 200 OK in 96ms (Views: 96.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 15:17:35 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (1.5ms)
+Completed 200 OK in 125ms (Views: 124.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 15:17:53 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 88ms (Views: 87.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 15:18:33 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 136ms (Views: 135.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 15:18:37 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 96ms (Views: 96.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 15:18:50 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 93ms (Views: 93.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 15:19:13 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 127ms (Views: 126.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 15:19:17 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 85ms (Views: 84.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 15:19:28 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 129ms (Views: 128.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 15:20:02 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 148ms (Views: 147.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 15:20:32 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (2.0ms)
+Completed 200 OK in 163ms (Views: 162.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 15:21:12 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 120ms (Views: 119.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 15:22:57 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 85ms (Views: 85.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/android" for 127.0.0.1 at 2017-07-19 15:25:37 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"android"}
+  Rendering public/index.html
+  Rendered public/index.html (52.1ms)
+Completed 200 OK in 165ms (Views: 164.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 15:26:41 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 113ms (Views: 112.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 15:27:13 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (1.5ms)
+Completed 200 OK in 108ms (Views: 107.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 15:31:10 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (10.0ms)
+Completed 200 OK in 164ms (Views: 163.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 15:33:50 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (14.1ms)
+Completed 200 OK in 92ms (Views: 92.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 15:34:25 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (20.0ms)
+Completed 200 OK in 130ms (Views: 129.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 15:34:45 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 113ms (Views: 112.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 15:36:04 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 82ms (Views: 82.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 15:36:57 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 103ms (Views: 102.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 15:37:35 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (2.0ms)
+Completed 200 OK in 99ms (Views: 87.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 15:38:01 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 97ms (Views: 95.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 15:38:51 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 110ms (Views: 109.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 15:38:57 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 92ms (Views: 91.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 15:39:24 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 257ms (Views: 242.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 15:39:31 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 151ms (Views: 151.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 15:47:38 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (2.0ms)
+Completed 200 OK in 98ms (Views: 97.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1?title=&parent=" for 127.0.0.1 at 2017-07-19 15:48:04 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"title"=>"", "parent"=>"", "any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 122ms (Views: 121.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1?title=&parent=" for 127.0.0.1 at 2017-07-19 15:48:40 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"title"=>"", "parent"=>"", "any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 154ms (Views: 153.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1?title=&parent=" for 127.0.0.1 at 2017-07-19 15:51:00 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"title"=>"", "parent"=>"", "any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (2.0ms)
+Completed 200 OK in 90ms (Views: 89.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1?title=&parent=" for 127.0.0.1 at 2017-07-19 15:51:55 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"title"=>"", "parent"=>"", "any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 91ms (Views: 90.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1?title=&parent=" for 127.0.0.1 at 2017-07-19 15:55:29 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"title"=>"", "parent"=>"", "any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (13.0ms)
+Completed 200 OK in 172ms (Views: 172.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1?title=&parent=" for 127.0.0.1 at 2017-07-19 15:57:08 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"title"=>"", "parent"=>"", "any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (26.0ms)
+Completed 200 OK in 212ms (Views: 211.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1?title=&parent=" for 127.0.0.1 at 2017-07-19 15:57:22 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"title"=>"", "parent"=>"", "any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 156ms (Views: 156.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article" for 127.0.0.1 at 2017-07-19 15:57:42 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article"}
+  Rendering public/index.html
+  Rendered public/index.html (49.1ms)
+Completed 200 OK in 133ms (Views: 133.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 15:57:46 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 87ms (Views: 87.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 15:57:50 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (7.0ms)
+Completed 200 OK in 104ms (Views: 104.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 16:00:08 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 83ms (Views: 83.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 16:02:26 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (109.1ms)
+Completed 200 OK in 428ms (Views: 425.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 16:05:42 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (9.0ms)
+Completed 200 OK in 146ms (Views: 145.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 16:09:07 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 87ms (Views: 87.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 16:10:11 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (22.0ms)
+Completed 200 OK in 173ms (Views: 172.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 16:11:00 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (127.2ms)
+Completed 200 OK in 332ms (Views: 331.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 16:11:36 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (24.0ms)
+Completed 200 OK in 123ms (Views: 122.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 16:21:30 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (24.0ms)
+Completed 200 OK in 123ms (Views: 122.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 16:23:35 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 113ms (Views: 113.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 16:24:28 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (70.1ms)
+Completed 200 OK in 174ms (Views: 174.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 16:24:33 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (25.0ms)
+Completed 200 OK in 159ms (Views: 159.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 16:25:04 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (23.0ms)
+Completed 200 OK in 230ms (Views: 230.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 16:25:09 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (23.1ms)
+Completed 200 OK in 131ms (Views: 130.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 16:26:58 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (30.0ms)
+Completed 200 OK in 199ms (Views: 197.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 16:29:04 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 99ms (Views: 81.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 16:29:58 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (2.0ms)
+Completed 200 OK in 97ms (Views: 96.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 16:34:32 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (2.0ms)
+Completed 200 OK in 101ms (Views: 99.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 16:36:12 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (1.5ms)
+Completed 200 OK in 104ms (Views: 102.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 16:36:37 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 95ms (Views: 94.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 16:46:06 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (14.1ms)
+Completed 200 OK in 105ms (Views: 104.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 16:46:21 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 81ms (Views: 80.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 16:46:58 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (44.1ms)
+Completed 200 OK in 258ms (Views: 257.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 16:47:39 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (27.1ms)
+Completed 200 OK in 146ms (Views: 146.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 16:48:44 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (51.0ms)
+Completed 200 OK in 158ms (Views: 157.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 16:49:14 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (31.0ms)
+Completed 200 OK in 177ms (Views: 177.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 16:49:58 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (9.0ms)
+Completed 200 OK in 138ms (Views: 137.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 16:56:18 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (2.0ms)
+Completed 200 OK in 105ms (Views: 104.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-19 16:56:59 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (2.1ms)
+Completed 200 OK in 120ms (Views: 119.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/android" for 127.0.0.1 at 2017-07-19 16:57:17 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"android"}
+  Rendering public/index.html
+  Rendered public/index.html (16.0ms)
+Completed 200 OK in 112ms (Views: 112.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/android" for 127.0.0.1 at 2017-07-19 16:57:20 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"android"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 119ms (Views: 110.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 16:57:31 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 90ms (Views: 89.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-19 16:57:33 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 101ms (Views: 101.3ms | ActiveRecord: 0.0ms)
+
+

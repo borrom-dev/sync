@@ -1,3 +1,5 @@
+import { UserComponent } from './app/backend/user/user.component';
+import { ArticleComponent } from './app/backend/article/article.component';
 import { LoginComponent } from './app/login/login.component';
 import { ClientComponent } from './app/client/client.component';
 import { BackendComponent } from './app/backend/backend.component';
@@ -16,12 +18,20 @@ export const routes: Routes = [
         component: BackendComponent,
         children: [
             {
+                path: '',
+                component: ArticleComponent
+            },
+            {
                 path: 'new-article',
                 component: NewArticleComponent
             },
             {
-                path: 'edit-article',
+                path: 'edit-article/:id',
                 component: EditArticleComponent
+            },
+            {
+                path: 'users',
+                component: UserComponent
             }
         ]
     },
