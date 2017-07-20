@@ -1,0 +1,44 @@
+<div class="ui top attached tabular menu">
+  <a class="item active" data-tab="first">Content</a>
+  <a class="item" data-tab="second">Preview</a>
+</div>
+<div class="ui bottom attached tab segment active" data-tab="first">
+    <div class="ui basic icon buttons container">
+      <button class="ui button" (click)="insertContent('Heading')"><i class="header icon"></i></button>
+      <button class="ui button" (click)="insertContent('Italic')"><i class="italic icon"></i></button>
+      <button class="ui button" (click)="insertContent('Bold')"><i class="bold icon"></i></button>
+      <button class="ui button" (click)="insertContent('Qoute')"><i class="quote left icon"></i></button>
+      <button class="ui button" (click)="insertContent('Ol')"><i class="ordered list icon"></i></button>
+      <button class="ui button" (click)="insertContent('Ul')"><i class="list icon"></i></button>
+      <button class="ui button" (click)="insertContent('Link')"><i class="linkify  icon"></i></button>
+      <button class="ui button" (click)="insertContent('Code')"><i class="code icon"></i></button>
+    </div>
+   <div class="editor-container">
+      <div class="editor-panel">
+        <div class="ace-editor" #editor style="height: 400px"></div>
+      </div>
+  </div>
+</div>
+<div class="ui bottom attached tab segment" data-tab="second">
+ <div class="preview-panel" [innerHtml]="_previewHtml"></div>
+</div>
+<div class="ui form">
+    <div class="field">
+      <label>Title</label>
+      <input type="text" name="title" [(ngModel)]="article.title" placeholder="Title">
+    </div>
+    <div class="field">
+      <label>Parent</label>
+      <div class="ui selection dropdown">
+        <input type="hidden">
+        <i class="dropdown icon"></i>
+        <div class="default text">Gender</div>
+        <div class="menu">
+          <div class="item" data-value="1">Android</div>
+          <div class="item" data-value="2">Rails</div>
+          <div class="item" data-value="3">Angular</div>
+        </div>
+      </div>
+    </div>
+  <button class="ui primary button" (click)="save()" >{{buttonTxt}}</button>
+</div>
