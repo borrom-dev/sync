@@ -11534,3 +11534,111 @@ Processing by Api::V1::ArticlesController#show as HTML
 Completed 200 OK in 60ms (Views: 20.1ms | ActiveRecord: 2.0ms)
 
 
+Started GET "/backend" for 127.0.0.1 at 2017-07-20 13:20:52 +0700
+  [1m[36mActiveRecord::SchemaMigration Load (1.0ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (3.0ms)
+Completed 200 OK in 99ms (Views: 99.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-20 13:20:53 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (0.0ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 17ms (Views: 9.2ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-20 13:20:57 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (0.5ms)
+Completed 200 OK in 90ms (Views: 89.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-20 13:20:57 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (1.0ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 4ms (Views: 3.2ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-20 13:21:18 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 145ms (Views: 145.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-20 13:21:18 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (1.0ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 5ms (Views: 3.4ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/api/v1/articles/4" for 127.0.0.1 at 2017-07-20 13:21:23 +0700
+Processing by Api::V1::ArticlesController#show as HTML
+  Parameters: {"id"=>"4"}
+  [1m[36mArticle Load (0.0ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 4], ["LIMIT", 1]]
+Completed 200 OK in 8ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-20 13:21:26 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (1.0ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 6ms (Views: 4.1ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/api/v1/articles/1" for 127.0.0.1 at 2017-07-20 13:21:27 +0700
+Processing by Api::V1::ArticlesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mArticle Load (0.0ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Completed 200 OK in 3ms (Views: 0.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-20 13:21:30 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (1.0ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 7ms (Views: 5.7ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/api/v1/articles/5" for 127.0.0.1 at 2017-07-20 13:21:31 +0700
+Processing by Api::V1::ArticlesController#show as HTML
+  Parameters: {"id"=>"5"}
+  [1m[36mArticle Load (1.0ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 5], ["LIMIT", 1]]
+Completed 200 OK in 3ms (Views: 0.7ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-20 13:21:34 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (0.0ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 5ms (Views: 3.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles/5" for 127.0.0.1 at 2017-07-20 13:21:38 +0700
+Processing by Api::V1::ArticlesController#show as HTML
+  Parameters: {"id"=>"5"}
+  [1m[36mArticle Load (1.0ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 5], ["LIMIT", 1]]
+Completed 200 OK in 2ms (Views: 0.6ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-20 13:21:43 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (0.0ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 4ms (Views: 4.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles/3" for 127.0.0.1 at 2017-07-20 13:21:46 +0700
+Processing by Api::V1::ArticlesController#show as HTML
+  Parameters: {"id"=>"3"}
+  [1m[36mArticle Load (1.0ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 3], ["LIMIT", 1]]
+Completed 200 OK in 2ms (Views: 0.7ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-20 13:21:53 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (0.0ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 5ms (Views: 4.2ms | ActiveRecord: 0.0ms)
+
+

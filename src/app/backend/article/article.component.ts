@@ -11,7 +11,7 @@ export class ArticleComponent implements OnInit {
 
   articles = [];
   loading = true;
-  constructor(private _service: AppServicesService, private route: ActivatedRoute, private _router: Router) { }
+  constructor(private _service: AppServicesService) { }
 
   ngOnInit() {
     this._service.get('/api/v1/articles')
@@ -19,9 +19,5 @@ export class ArticleComponent implements OnInit {
         this.loading = false;
         this.articles = res.json();
     });
-  }
-
-  onEdit(article) {
-     this._router.navigate(['edit-article', article.id], { relativeTo: this.route });
   }
 }
