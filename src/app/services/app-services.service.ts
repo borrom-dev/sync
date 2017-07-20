@@ -11,7 +11,7 @@ export class AppServicesService {
   create(url, data): Observable<any> {
     return this.http.post(url, data)
     .map(res => {
-      console.log(res.json());
+      return res.json();
     },
     error => {
       console.log(error);
@@ -20,5 +20,15 @@ export class AppServicesService {
 
   get(url): Observable<any> {
     return this.http.get(url);
+  }
+
+  getBy(url, id): Observable<any> {
+    return this.http.get(`${url}/${id}`)
+    .map(res => {
+      return res.json();
+    },
+    error => {
+      console.log(error);
+    })
   }
 }

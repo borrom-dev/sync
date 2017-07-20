@@ -1,3 +1,4 @@
+import { EditorArticleResolverService } from './services/editor-article-resolver.service';
 import { AppServicesService } from './services/app-services.service';
 import { ArticleListComponent } from './backend/article/article-list/article-list.component';
 import { ArticleComponent } from './backend/article/article.component';
@@ -52,7 +53,7 @@ import { UserComponent } from './backend/user/user.component';
     RouterModule.forRoot(routes),
     RouterModule.forChild(routes)
   ],
-  providers: [AppServicesService],
+  providers: [AppServicesService, EditorArticleResolverService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

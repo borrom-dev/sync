@@ -1,4 +1,6 @@
-<table class="ui compact celled definition table">
+<div class="ui large active centered inline loader" *ngIf="loading"></div>
+
+<table class="ui loading compact celled definition table" *ngIf="!loading">
   <thead>
     <tr>
       <th></th>
@@ -19,7 +21,7 @@
       <td>{{article.title}}</td>
       <td>{{article.perent}}</td>
       <td>jhlilk22@yahoo.com</td>
-      <td><a [routerLink]="['edit-article', 1]"><i class="edit icon"></i></a></td>
+      <td><a><i class="edit icon" (click)="onEdit(article)"></i></a></td>
     </tr>
   </tbody>
 </table>

@@ -10175,3 +10175,1235 @@ Processing by Api::V1::ArticlesController#index as HTML
 Completed 200 OK in 80ms (Views: 78.8ms | ActiveRecord: 1.0ms)
 
 
+Started GET "/backend" for 127.0.0.1 at 2017-07-20 09:56:03 +0700
+  [1m[36mActiveRecord::SchemaMigration Load (0.0ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (14.0ms)
+Completed 200 OK in 159ms (Views: 158.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-20 09:56:06 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (1.0ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 36ms (Views: 26.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-20 09:56:55 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 100ms (Views: 99.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-20 09:56:56 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (0.0ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 4ms (Views: 3.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-20 09:57:05 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 138ms (Views: 138.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-20 09:57:06 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (2.0ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 7ms (Views: 3.8ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-20 09:57:26 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 150ms (Views: 149.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-20 09:57:28 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (1.0ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 8ms (Views: 6.2ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-20 09:58:27 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 123ms (Views: 123.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-20 09:58:28 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (1.0ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 7ms (Views: 5.3ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-20 10:14:07 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (1.5ms)
+Completed 200 OK in 142ms (Views: 140.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-20 10:14:08 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (2.0ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 14ms (Views: 11.0ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-20 10:14:13 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 112ms (Views: 112.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-20 10:14:14 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (1.0ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 8ms (Views: 7.1ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-20 10:15:31 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 113ms (Views: 113.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-20 10:15:34 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (1.0ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 38ms (Views: 36.6ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-20 10:16:02 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (2.0ms)
+Completed 200 OK in 166ms (Views: 166.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-20 10:16:03 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (1.0ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 39ms (Views: 38.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-20 10:16:11 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 108ms (Views: 107.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-20 10:16:12 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (1.0ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 11ms (Views: 9.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-20 10:16:44 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 82ms (Views: 82.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-20 10:16:46 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (1.0ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 11ms (Views: 8.8ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-20 10:17:06 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 89ms (Views: 89.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-20 10:17:07 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (1.0ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 9ms (Views: 8.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-20 10:19:00 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (2.0ms)
+Completed 200 OK in 143ms (Views: 135.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-20 10:20:29 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 108ms (Views: 107.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-20 10:20:40 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (2.0ms)
+Completed 200 OK in 83ms (Views: 83.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-20 10:20:46 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 125ms (Views: 124.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-20 10:21:09 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 116ms (Views: 116.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-20 10:21:23 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (2.0ms)
+Completed 200 OK in 137ms (Views: 136.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-20 10:21:33 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 93ms (Views: 93.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-20 10:22:10 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (1.5ms)
+Completed 200 OK in 101ms (Views: 100.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-20 10:23:10 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (1.5ms)
+Completed 200 OK in 119ms (Views: 118.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-20 10:24:20 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (31.0ms)
+Completed 200 OK in 150ms (Views: 148.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-20 10:24:35 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (1.5ms)
+Completed 200 OK in 122ms (Views: 121.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-20 10:24:56 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (0.5ms)
+Completed 200 OK in 163ms (Views: 162.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-20 10:24:58 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (90.1ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 284ms (Views: 151.0ms | ActiveRecord: 90.1ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-20 10:26:28 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (2.0ms)
+Completed 200 OK in 95ms (Views: 95.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-20 10:26:30 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (1.5ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 49ms (Views: 46.8ms | ActiveRecord: 1.5ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-20 10:26:43 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 154ms (Views: 153.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-20 10:26:45 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (1.0ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 99ms (Views: 97.4ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-20 10:27:31 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (0.5ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 5ms (Views: 3.5ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-20 10:27:32 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (0.5ms)
+Completed 200 OK in 108ms (Views: 107.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-20 10:27:34 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (0.0ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 4ms (Views: 3.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-20 10:28:16 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 126ms (Views: 125.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-20 10:28:18 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (1.0ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 5ms (Views: 3.9ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-20 10:28:22 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 87ms (Views: 86.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-20 10:28:24 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (1.0ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 37ms (Views: 35.1ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-20 10:28:27 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (0.0ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 4ms (Views: 3.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-20 10:28:42 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 165ms (Views: 165.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-20 10:28:44 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (1.0ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 11ms (Views: 9.6ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-20 10:29:01 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 85ms (Views: 85.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-20 10:29:02 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (1.0ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 6ms (Views: 4.1ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/backend/edit-article/4" for 127.0.0.1 at 2017-07-20 10:29:32 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/4"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 124ms (Views: 124.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/4" for 127.0.0.1 at 2017-07-20 10:30:11 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/4"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 92ms (Views: 92.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/4" for 127.0.0.1 at 2017-07-20 10:37:12 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/4"}
+  Rendering public/index.html
+  Rendered public/index.html (3.0ms)
+Completed 200 OK in 121ms (Views: 120.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-20 10:37:23 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 88ms (Views: 88.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-20 10:54:09 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (2.0ms)
+Completed 200 OK in 173ms (Views: 172.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-20 10:55:30 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 116ms (Views: 115.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles/1" for 127.0.0.1 at 2017-07-20 10:55:31 +0700
+Processing by Api::V1::ArticlesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mArticle Load (46.9ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Completed 200 OK in 2105ms (Views: 3.0ms | ActiveRecord: 46.9ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-20 10:56:36 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (0.5ms)
+Completed 200 OK in 87ms (Views: 86.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles/1" for 127.0.0.1 at 2017-07-20 10:56:38 +0700
+Processing by Api::V1::ArticlesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mArticle Load (1.0ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Completed 200 OK in 4ms (Views: 0.9ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-20 10:57:31 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 88ms (Views: 88.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles/1" for 127.0.0.1 at 2017-07-20 10:57:34 +0700
+Processing by Api::V1::ArticlesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mArticle Load (0.0ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Completed 200 OK in 3ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/2" for 127.0.0.1 at 2017-07-20 10:57:46 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/2"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 94ms (Views: 94.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles/2" for 127.0.0.1 at 2017-07-20 10:57:48 +0700
+Processing by Api::V1::ArticlesController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[36mArticle Load (0.0ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+Completed 200 OK in 6ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/4" for 127.0.0.1 at 2017-07-20 10:57:52 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/4"}
+  Rendering public/index.html
+  Rendered public/index.html (15.0ms)
+Completed 200 OK in 101ms (Views: 100.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles/4" for 127.0.0.1 at 2017-07-20 10:57:54 +0700
+Processing by Api::V1::ArticlesController#show as HTML
+  Parameters: {"id"=>"4"}
+  [1m[36mArticle Load (0.0ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 4], ["LIMIT", 1]]
+Completed 200 OK in 6ms (Views: 4.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/4" for 127.0.0.1 at 2017-07-20 10:58:58 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/4"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 149ms (Views: 148.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles/4" for 127.0.0.1 at 2017-07-20 10:59:00 +0700
+Processing by Api::V1::ArticlesController#show as HTML
+  Parameters: {"id"=>"4"}
+  [1m[36mArticle Load (0.0ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 4], ["LIMIT", 1]]
+Completed 200 OK in 13ms (Views: 5.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/4" for 127.0.0.1 at 2017-07-20 10:59:35 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/4"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 124ms (Views: 123.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles/4" for 127.0.0.1 at 2017-07-20 10:59:37 +0700
+Processing by Api::V1::ArticlesController#show as HTML
+  Parameters: {"id"=>"4"}
+  [1m[36mArticle Load (0.0ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 4], ["LIMIT", 1]]
+Completed 200 OK in 18ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/4" for 127.0.0.1 at 2017-07-20 10:59:52 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/4"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 125ms (Views: 124.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles/4" for 127.0.0.1 at 2017-07-20 10:59:53 +0700
+Processing by Api::V1::ArticlesController#show as HTML
+  Parameters: {"id"=>"4"}
+  [1m[36mArticle Load (0.0ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 4], ["LIMIT", 1]]
+Completed 200 OK in 6ms (Views: 1.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/4" for 127.0.0.1 at 2017-07-20 11:01:13 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/4"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 126ms (Views: 125.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles/4" for 127.0.0.1 at 2017-07-20 11:01:15 +0700
+Processing by Api::V1::ArticlesController#show as HTML
+  Parameters: {"id"=>"4"}
+  [1m[36mArticle Load (1.0ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 4], ["LIMIT", 1]]
+Completed 200 OK in 11ms (Views: 6.4ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/backend/edit-article/4" for 127.0.0.1 at 2017-07-20 11:02:45 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/4"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 91ms (Views: 90.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/4" for 127.0.0.1 at 2017-07-20 11:03:59 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/4"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 93ms (Views: 93.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/4" for 127.0.0.1 at 2017-07-20 11:05:00 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/4"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 108ms (Views: 107.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles/4" for 127.0.0.1 at 2017-07-20 11:05:02 +0700
+Processing by Api::V1::ArticlesController#show as HTML
+  Parameters: {"id"=>"4"}
+  [1m[36mArticle Load (0.0ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 4], ["LIMIT", 1]]
+Completed 200 OK in 9ms (Views: 3.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/4" for 127.0.0.1 at 2017-07-20 11:05:43 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/4"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 90ms (Views: 90.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles/4" for 127.0.0.1 at 2017-07-20 11:05:45 +0700
+Processing by Api::V1::ArticlesController#show as HTML
+  Parameters: {"id"=>"4"}
+  [1m[36mArticle Load (0.0ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 4], ["LIMIT", 1]]
+Completed 200 OK in 6ms (Views: 1.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/4" for 127.0.0.1 at 2017-07-20 11:06:01 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/4"}
+  Rendering public/index.html
+  Rendered public/index.html (0.5ms)
+Completed 200 OK in 129ms (Views: 128.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles/4" for 127.0.0.1 at 2017-07-20 11:06:03 +0700
+Processing by Api::V1::ArticlesController#show as HTML
+  Parameters: {"id"=>"4"}
+  [1m[36mArticle Load (0.0ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 4], ["LIMIT", 1]]
+Completed 200 OK in 4ms (Views: 1.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/4" for 127.0.0.1 at 2017-07-20 11:06:19 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/4"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 127ms (Views: 126.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles/4" for 127.0.0.1 at 2017-07-20 11:06:21 +0700
+Processing by Api::V1::ArticlesController#show as HTML
+  Parameters: {"id"=>"4"}
+  [1m[36mArticle Load (1.0ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 4], ["LIMIT", 1]]
+Completed 200 OK in 4ms (Views: 1.6ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/backend/edit-article/4" for 127.0.0.1 at 2017-07-20 11:08:20 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/4"}
+  Rendering public/index.html
+  Rendered public/index.html (12.0ms)
+Completed 200 OK in 103ms (Views: 101.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles/4" for 127.0.0.1 at 2017-07-20 11:08:22 +0700
+Processing by Api::V1::ArticlesController#show as HTML
+  Parameters: {"id"=>"4"}
+  [1m[36mArticle Load (1.0ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 4], ["LIMIT", 1]]
+Completed 200 OK in 27ms (Views: 5.5ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/backend/edit-article/4" for 127.0.0.1 at 2017-07-20 11:09:18 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/4"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 84ms (Views: 83.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles/4" for 127.0.0.1 at 2017-07-20 11:09:20 +0700
+Processing by Api::V1::ArticlesController#show as HTML
+  Parameters: {"id"=>"4"}
+  [1m[36mArticle Load (0.0ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 4], ["LIMIT", 1]]
+Completed 200 OK in 4ms (Views: 0.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/4" for 127.0.0.1 at 2017-07-20 11:11:16 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/4"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 109ms (Views: 109.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles/4" for 127.0.0.1 at 2017-07-20 11:11:17 +0700
+Processing by Api::V1::ArticlesController#show as HTML
+  Parameters: {"id"=>"4"}
+  [1m[36mArticle Load (0.0ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 4], ["LIMIT", 1]]
+Completed 200 OK in 4ms (Views: 0.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/4" for 127.0.0.1 at 2017-07-20 11:11:46 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/4"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 128ms (Views: 127.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles/4" for 127.0.0.1 at 2017-07-20 11:11:48 +0700
+Processing by Api::V1::ArticlesController#show as HTML
+  Parameters: {"id"=>"4"}
+  [1m[36mArticle Load (1.0ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 4], ["LIMIT", 1]]
+Completed 200 OK in 9ms (Views: 1.7ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-20 11:13:12 +0700
+Processing by Api::V1::ArticlesController#index as */*
+  Parameters: {"article"=>{}}
+  [1m[36mArticle Load (15.0ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 30ms (Views: 10.9ms | ActiveRecord: 15.0ms)
+
+
+Started GET "/api/v1/articles/1" for 127.0.0.1 at 2017-07-20 11:13:16 +0700
+Processing by Api::V1::ArticlesController#show as */*
+  Parameters: {"id"=>"1", "article"=>{}}
+  [1m[36mArticle Load (1.0ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Completed 200 OK in 4ms (Views: 0.7ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/backend/edit-article/4" for 127.0.0.1 at 2017-07-20 11:14:29 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/4"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 103ms (Views: 102.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles/4" for 127.0.0.1 at 2017-07-20 11:14:31 +0700
+Processing by Api::V1::ArticlesController#show as HTML
+  Parameters: {"id"=>"4"}
+  [1m[36mArticle Load (1.0ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 4], ["LIMIT", 1]]
+Completed 200 OK in 43ms (Views: 4.2ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-20 11:18:01 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (2.0ms)
+Completed 200 OK in 103ms (Views: 101.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles/1" for 127.0.0.1 at 2017-07-20 11:18:04 +0700
+Processing by Api::V1::ArticlesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mArticle Load (1.0ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Completed 200 OK in 11ms (Views: 2.9ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-20 11:18:38 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 125ms (Views: 125.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles/1" for 127.0.0.1 at 2017-07-20 11:18:40 +0700
+Processing by Api::V1::ArticlesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mArticle Load (0.0ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Completed 200 OK in 2ms (Views: 0.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-20 11:19:54 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (2.0ms)
+Completed 200 OK in 109ms (Views: 108.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles/1" for 127.0.0.1 at 2017-07-20 11:19:56 +0700
+Processing by Api::V1::ArticlesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mArticle Load (1.0ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Completed 200 OK in 36ms (Views: 2.9ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-20 11:21:00 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 95ms (Views: 94.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles/1" for 127.0.0.1 at 2017-07-20 11:21:01 +0700
+Processing by Api::V1::ArticlesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mArticle Load (1.0ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Completed 200 OK in 12ms (Views: 0.9ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-20 11:22:51 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (2.0ms)
+Completed 200 OK in 123ms (Views: 121.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles/1" for 127.0.0.1 at 2017-07-20 11:22:52 +0700
+Processing by Api::V1::ArticlesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mArticle Load (1.0ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Completed 200 OK in 11ms (Views: 3.7ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/backend/edit-article/2" for 127.0.0.1 at 2017-07-20 11:22:57 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/2"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 82ms (Views: 82.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles/2" for 127.0.0.1 at 2017-07-20 11:22:58 +0700
+Processing by Api::V1::ArticlesController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[36mArticle Load (2.0ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+Completed 200 OK in 9ms (Views: 2.3ms | ActiveRecord: 2.0ms)
+
+
+Started POST "/api/v1/articles" for 127.0.0.1 at 2017-07-20 11:24:24 +0700
+Processing by Api::V1::ArticlesController#create as HTML
+  Parameters: {"id"=>2, "title"=>"Introduction", "content"=>"# Instruduction to Angular", "is_publish"=>nil, "created_at"=>"2017-07-19T10:44:24.392Z", "updated_at"=>"2017-07-19T10:44:24.392Z", "parent"=>"2", "article"=>{"id"=>2, "title"=>"Introduction", "content"=>"# Instruduction to Angular", "is_publish"=>nil, "created_at"=>"2017-07-19T10:44:24.392Z", "updated_at"=>"2017-07-19T10:44:24.392Z"}}
+Unpermitted parameters: id, is_publish, created_at, updated_at
+  [1m[35m (17.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (48.2ms)[0m  [1m[32mINSERT INTO "articles" ("title", "content", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["title", "Introduction"], ["content", "# Instruduction to Angular"], ["created_at", "2017-07-20 04:24:25.051064"], ["updated_at", "2017-07-20 04:24:25.051064"]]
+  [1m[35m (115.8ms)[0m  [1m[36mcommit transaction[0m
+Completed 201 Created in 266ms (Views: 1.8ms | ActiveRecord: 181.0ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-20 11:24:25 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (1.0ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 6ms (Views: 4.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-20 11:29:52 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (2.0ms)
+Completed 200 OK in 87ms (Views: 85.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-20 11:29:53 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (1.0ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 13ms (Views: 10.3ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/api/v1/articles/1" for 127.0.0.1 at 2017-07-20 11:29:54 +0700
+Processing by Api::V1::ArticlesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mArticle Load (0.0ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Completed 200 OK in 0ms (Views: 0.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-20 11:30:30 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 100ms (Views: 99.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles/1" for 127.0.0.1 at 2017-07-20 11:30:31 +0700
+Processing by Api::V1::ArticlesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mArticle Load (0.0ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Completed 200 OK in 2ms (Views: 0.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-20 11:30:34 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 81ms (Views: 81.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles/1" for 127.0.0.1 at 2017-07-20 11:30:35 +0700
+Processing by Api::V1::ArticlesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mArticle Load (0.0ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Completed 200 OK in 3ms (Views: 0.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-20 11:30:50 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 95ms (Views: 94.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles/1" for 127.0.0.1 at 2017-07-20 11:30:51 +0700
+Processing by Api::V1::ArticlesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mArticle Load (0.0ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Completed 200 OK in 3ms (Views: 0.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-20 11:31:10 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 118ms (Views: 117.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles/1" for 127.0.0.1 at 2017-07-20 11:31:11 +0700
+Processing by Api::V1::ArticlesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mArticle Load (0.5ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Completed 200 OK in 3ms (Views: 1.0ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-20 11:31:58 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (3.0ms)
+Completed 200 OK in 139ms (Views: 139.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles/1" for 127.0.0.1 at 2017-07-20 11:32:01 +0700
+Processing by Api::V1::ArticlesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mArticle Load (14.0ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Completed 200 OK in 39ms (Views: 7.7ms | ActiveRecord: 14.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-20 11:33:14 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (37.0ms)
+Completed 200 OK in 158ms (Views: 157.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles/1" for 127.0.0.1 at 2017-07-20 11:33:16 +0700
+Processing by Api::V1::ArticlesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mArticle Load (1.0ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Completed 200 OK in 12ms (Views: 3.9ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/backend/edit-article/1" for 127.0.0.1 at 2017-07-20 11:33:29 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/edit-article/1"}
+  Rendering public/index.html
+  Rendered public/index.html (10.0ms)
+Completed 200 OK in 103ms (Views: 103.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles/1" for 127.0.0.1 at 2017-07-20 11:33:31 +0700
+Processing by Api::V1::ArticlesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mArticle Load (1.0ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Completed 200 OK in 13ms (Views: 1.3ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-20 11:34:16 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 120ms (Views: 119.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-20 11:35:55 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 134ms (Views: 134.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-20 11:36:09 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 137ms (Views: 136.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-20 11:36:29 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (8.0ms)
+Completed 200 OK in 140ms (Views: 138.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend/new-article" for 127.0.0.1 at 2017-07-20 11:37:20 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend/new-article"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 94ms (Views: 93.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-20 11:38:27 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (2.0ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 45ms (Views: 26.9ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-20 11:38:58 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 110ms (Views: 109.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-20 11:39:00 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (1.0ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 6ms (Views: 4.3ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-20 11:39:01 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 98ms (Views: 98.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-20 11:39:02 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (1.0ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 12ms (Views: 10.5ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-20 11:39:50 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 81ms (Views: 81.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-20 11:39:51 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (1.0ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 7ms (Views: 4.8ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-20 11:44:50 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (23.1ms)
+Completed 200 OK in 152ms (Views: 151.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-20 11:44:52 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (11.0ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 23ms (Views: 9.8ms | ActiveRecord: 11.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-20 11:44:56 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (26.0ms)
+Completed 200 OK in 137ms (Views: 136.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-20 11:44:57 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (1.0ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 35ms (Views: 33.6ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-20 11:45:16 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 123ms (Views: 123.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-20 11:45:17 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (1.0ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 142ms (Views: 139.7ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-20 11:45:37 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (3.0ms)
+Completed 200 OK in 141ms (Views: 141.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-20 11:45:39 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (0.0ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 5ms (Views: 5.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-20 11:45:41 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (10.0ms)
+Completed 200 OK in 128ms (Views: 127.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-20 11:45:42 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (1.0ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 11ms (Views: 9.1ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-20 11:46:04 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (3.0ms)
+Completed 200 OK in 141ms (Views: 141.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-20 11:46:05 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (0.0ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 6ms (Views: 6.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-20 11:46:07 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 119ms (Views: 118.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-20 11:46:08 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (1.0ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 4ms (Views: 2.6ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-20 11:46:10 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (0.0ms)
+Completed 200 OK in 84ms (Views: 83.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-20 11:46:11 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (1.0ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 11ms (Views: 9.2ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/backend" for 127.0.0.1 at 2017-07-20 11:47:00 +0700
+Processing by ApplicationController#index as HTML
+  Parameters: {"any"=>"backend"}
+  Rendering public/index.html
+  Rendered public/index.html (1.0ms)
+Completed 200 OK in 99ms (Views: 99.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-20 11:47:01 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (1.0ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 9ms (Views: 6.9ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/api/v1/articles/2" for 127.0.0.1 at 2017-07-20 11:47:04 +0700
+Processing by Api::V1::ArticlesController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[36mArticle Load (0.0ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+Completed 200 OK in 4ms (Views: 0.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-20 11:47:06 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (1.0ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 38ms (Views: 37.1ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/api/v1/articles/3" for 127.0.0.1 at 2017-07-20 11:47:08 +0700
+Processing by Api::V1::ArticlesController#show as HTML
+  Parameters: {"id"=>"3"}
+  [1m[36mArticle Load (15.6ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 3], ["LIMIT", 1]]
+Completed 200 OK in 18ms (Views: 1.0ms | ActiveRecord: 15.6ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-20 11:47:09 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (0.0ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 8ms (Views: 7.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles/4" for 127.0.0.1 at 2017-07-20 11:47:11 +0700
+Processing by Api::V1::ArticlesController#show as HTML
+  Parameters: {"id"=>"4"}
+  [1m[36mArticle Load (0.0ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 4], ["LIMIT", 1]]
+Completed 200 OK in 4ms (Views: 1.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-20 11:47:12 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (0.0ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 3ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles/4" for 127.0.0.1 at 2017-07-20 11:47:14 +0700
+Processing by Api::V1::ArticlesController#show as HTML
+  Parameters: {"id"=>"4"}
+  [1m[36mArticle Load (1.0ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 4], ["LIMIT", 1]]
+Completed 200 OK in 3ms (Views: 1.1ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-20 11:47:15 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (1.0ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 5ms (Views: 4.1ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/api/v1/articles/1" for 127.0.0.1 at 2017-07-20 11:47:17 +0700
+Processing by Api::V1::ArticlesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mArticle Load (0.0ms)[0m  [1m[34mSELECT  "articles".* FROM "articles" WHERE "articles"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Completed 200 OK in 18ms (Views: 1.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/v1/articles" for 127.0.0.1 at 2017-07-20 11:47:18 +0700
+Processing by Api::V1::ArticlesController#index as HTML
+  [1m[36mArticle Load (0.0ms)[0m  [1m[34mSELECT "articles".* FROM "articles"[0m
+Completed 200 OK in 5ms (Views: 4.6ms | ActiveRecord: 0.0ms)
+
+

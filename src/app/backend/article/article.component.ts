@@ -1,3 +1,4 @@
+import { Router, ActivatedRoute } from '@angular/router';
 import { Component, OnInit } from '@angular/core';
 import { AppServicesService } from 'app/services/app-services.service';
 
@@ -9,15 +10,18 @@ import { AppServicesService } from 'app/services/app-services.service';
 export class ArticleComponent implements OnInit {
 
   articles = [];
-
-  constructor(private _service: AppServicesService) { }
+  loading = true;
+  constructor(private _service: AppServicesService, private route: ActivatedRoute, private _router: Router) { }
 
   ngOnInit() {
     this._service.get('/api/v1/articles')
     .subscribe(res => {
-        console.log(res.json());
+        this.loading = false;
         this.articles = res.json();
     });
   }
 
+  onEdit(article) {
+     this._router.navigate(['edit-article', article.id], { relativeTo: this.route });
+  }
 }

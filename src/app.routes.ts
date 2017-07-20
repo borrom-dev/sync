@@ -1,3 +1,4 @@
+import { EditorArticleResolverService } from './app/services/editor-article-resolver.service';
 import { UserComponent } from './app/backend/user/user.component';
 import { ArticleComponent } from './app/backend/article/article.component';
 import { LoginComponent } from './app/login/login.component';
@@ -27,7 +28,10 @@ export const routes: Routes = [
             },
             {
                 path: 'edit-article/:id',
-                component: EditArticleComponent
+                component: EditArticleComponent,
+                 resolve: {
+                    article: EditorArticleResolverService
+                 }
             },
             {
                 path: 'users',

@@ -1,3 +1,4 @@
+import { Router, ActivatedRoute } from '@angular/router';
 import { Component, OnInit } from '@angular/core';
 
 @Component({
@@ -6,10 +7,14 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./edit-article.component.css']
 })
 export class EditArticleComponent implements OnInit {
-
-  constructor() { }
+  article = {};
+  constructor(private _route: ActivatedRoute, private _router: Router) { }
 
   ngOnInit() {
+    this._route.data
+      .subscribe(data => {
+        this.article = data.article;
+      });
   }
 
 }
